@@ -11,4 +11,4 @@ def hello_pubsub(event, context):
     else:
         name = 'World'
 
-    print('Hello {}'.format(name))
+    print('Hello {}!'.format(name))
